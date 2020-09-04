@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("Hola mundo\n");
+  printf("Hola mundo soy Sandro\n");
   int suma = 0;
   while(1){
     if(suma == 10){
